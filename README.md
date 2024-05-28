@@ -13,7 +13,7 @@ Can automaticly download all files from a illias folder and put them in the desi
 2. install requirements `pip install -r requirements.txt`
 3. go into the `download.sh` and input your username and password, also change the download dir and url.
 
-You can find out the download url by going to the folder and clicking on the folder again in the menu, as shown on the picture below.
+You can find out the download url by going to the illias folder in your browser and then in the menu, click on the folder name again, as shown on the picture below.
 
 ![image1](image.png)
 
